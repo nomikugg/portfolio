@@ -13,6 +13,8 @@ function App() {
         <a href='https://github.com/nomikugg'>
           My Github perfil {heart_react}.
         </a>
+        <p>Lorem impsum</p>
+        <img src='https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg'></img>
       </header>
     </div>
   );
